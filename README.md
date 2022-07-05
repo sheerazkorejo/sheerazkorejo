@@ -9,6 +9,7 @@
 - 🤔 I’m looking for help with Flutter 
 - 💬 Ask me about Java/Flutter
 - 📫 How to reach me: [Instagram @sheeraz_ali74](https://www.instagram.com/sheeraz_ali74/)
+                      [LinkedIn @thesheerazali](https://www.linkedin.com/in/thesheerazali)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Can eat entire box of pizza
 
